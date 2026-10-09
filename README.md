@@ -1,54 +1,82 @@
-<h1 align="center">Hi there👋, I'm Raunak Pandey</h1>
+# Hi, I'm Raunak 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**I build software that holds up when a lot of people use it — and I do research on AI that understands how humans move.**
 
-<a href="https://www.linkedin.com/in/raunak-pandey-8009a8196/" target="blank">
-  <img align="left" alt="Raunak Pandey | Linkedin" width="50px" height="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
- </a>
-  <a href="https://www.instagram.com/raunak__pandey/" target="blank">
-  <img align="left" alt="Raunak Pandey | Instagram" width="50px" height="50px" src="https://user-images.githubusercontent.com/65064180/180302986-f3258c1c-5215-4220-8d50-8a1c386a55c8.png" />
- </a>
+📍 Jersey City, NJ &nbsp;·&nbsp; 📧 [rpandey3@buffalo.edu](mailto:rpandey3@buffalo.edu) &nbsp;·&nbsp; 🌐 [raunakp.com](https://raunakp.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/raunakpandey1)
 
-<br />
-<br />
+---
 
-Hi, I'm Raunak Pandey, A Final year Computer Engineering Student from Mumbai.
+## Where I am right now
 
-- 🔭 I’m currently working on **different Web projects.**
-- 🌱 I’m currently learning **Blockchain Development.**
+🎓 **Master's in Computer Science (Research)** — University at Buffalo, graduating **May 2027**
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RAUNAK-PANDEY)
-![Profile views ](https://gpvc.arturio.dev/RAUNAK-PANDEY)
+🔬 **Graduate Research Assistant** — advisor Prof. Junsong Yuan. I teach AI models to generate realistic human movement from music.
 
+💻 **Software Engineer Intern** — [Classavo](https://classavo.com), an early-stage education startup used by thousands of professors and students.
 
+Before grad school I spent **two years as a full-time Software Engineer at Tata Consultancy Services - Research** in Mumbai, building and maintaining backend systems for enterprise clients.
+
+---
+
+## 🔬 The research I care about
+
+My lab works on **teaching computers to understand and generate human motion.**
+
+Think of it this way: a human can watch a dancer and instantly know whether the movement matches the music, whether the posture is off, and what to fix. Computers are still bad at this. I'm working on closing that gap.
+
+**Why it matters:** the same ideas power sports coaching, physical therapy, animation, and robotics — any place a machine needs to understand a body in motion.
+
+---
+
+## 💻 The engineering I do
+
+At Classavo I work on a live classroom platform that grew very fast in 2026 (the company went from roughly **$200K to $1M+ in revenue** between summer and fall). My job wasn't the growth - it was making sure the product didn't break while it happened.
 
  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883689-0ef6081d-cbca-4294-8ff0-58ba0499814e.png" alt="react" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883686-4eee17e0-0d81-47ae-a8c5-b6e2396a1ebc.png" alt="nodejs" width="60" height="60"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883684-c292c3db-476b-40a4-b06f-97cc441f8ad6.png" alt="mongodb" width="60" height="60"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883680-44bd51dd-6506-4a06-90ba-a142b0a037d8.png" alt="javascript" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883673-5b09f316-c512-4fe6-bbd9-4fae399a36f7.png" alt="cplusplus" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883669-f0a8881f-dbb2-44ab-8072-4d9ff5974412.png" alt="android" width="60" height="60"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883674-84132230-7410-4c90-bb47-307c62bb9311.png" alt="css3" width="60" height="60"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883676-6f03d20c-e130-42eb-80b3-53a8e038778a.png" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883678-f66a5ac9-5632-491b-b281-b652ad717fcf.png" alt="java" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883682-3b736894-1e19-4bbf-92b8-721a175b3927.jpeg" alt="linux" width="60" height="60"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883685-d2db27e0-53c2-4924-87aa-547b90215b9b.png" alt="mysql" width="60" height="60"/> </a> <a href="https://soliditylang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/221439627-0b0d170b-e6ce-43b1-8f41-9e89ddb612b2.jpg" alt="solidity" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://user-images.githubusercontent.com/65064180/213883671-69997b1d-2c8c-462b-8a2d-67f2a75c2b4a.png" alt="bootstrap" width="60" height="60"/> </a> </p>
+**Earlier, at Tata Consultancy Services (2 years, full-time):** built and maintained **15+ APIs** (30% faster responses), broke a large legacy application into smaller independent services (**40% faster**), wrote a tool that **saved 4 hours of manual work per codebase**, raised test coverage from **45% to 95%**, and mentored junior engineers.
 
+---
 
+## 🏆 A few things I'm proud of
 
+- 🥇 **1st place**, ACV Auctions + Copart challenge at the UB **AI for Good Hackathon** — built a working AI agent platform for unsold used-car inventory in **one day**
+- 🏅 **Top 5 team**, IBM SkillsBuild Agentic AI Hackathon
+- ☁️ **AWS Certified Developer – Associate** (scored 899)
+- 🧩 **750+ problems solved**, **1700+ LeetCode rating**
+- 🎓 **4.0/4.0 GPA** in my Bachelor's (University of Mumbai), **3.71/4.0** in my Master's so far
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=RAUNAK-PANDEY&show_icons=true&hide_border=true&theme=radical&count_private=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAUNAK-PANDEY&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
+---
+
+## 📂 Projects worth a look
+
+| Project | What it is |
 |---|---|
-|<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAK-PANDEY&layout=compact&theme=dracula" />| 
-|<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAUNAK-PANDEY&theme=dracula" />|<br>
+| **[GoingOnce](https://github.com/raunakpandey1/goingonce)** | Hackathon-winning platform where four AI agents match car buyers to unsold inventory, write condition reports, negotiate, and close deals — with a human approving every step |
+| **[PatchPilot](https://github.com/raunakpandey1/PatchPilot)** | An AI agent that reads an unfamiliar open-source codebase, finds real issues, and writes working fixes for them |
+| **[Medstore](https://medstore.onrender.com/)** · [code](https://github.com/raunakpandey1/Medstore-mern) | A medicine delivery store I built and launched during COVID-19. Did **200K+ INR in sales** and still serves **50+ users** years later |
+| **[Skeleton Joint Inpainting](https://github.com/raunakpandey1/Human_Skeleton_Joint_Inpainting_With_DDIM)** | Given a body pose with missing joints, this model reconstructs the ones that are hidden |
+| **[eBay ML Competition](https://github.com/raunakpandey1/ebay_ml_competition_2025)** | Pulled structured car details out of messy German product listings for eBay's 2025 university competition |
 
-[![Raunak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAUNAK-PANDEY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
- 
- 
-### :zap: GitHub Trophies 🏆
+---
 
+## 🧰 What I work with
+
+**Everyday:** Python · Java · TypeScript · C++ · SQL
+**Building products:** Django · Spring Boot · React · Next.js · Node.js · PostgreSQL · Redis
+**AI & research:** PyTorch · Computer Vision · LLMs · RAG · LangGraph · MCP
+**Shipping it:** AWS · Azure · Docker · Kubernetes · Git · CI/CD
+
+---
+
+## 🤝 What I'm looking for
+
+I'm open to **new-grad software engineering and AI/ML roles starting mid-2027**, and I'm always happy to talk about human motion research, AI agents, or making slow systems fast.
+
+The quickest way to reach me is **[rpandey3@buffalo.edu](mailto:rpandey3@buffalo.edu)** or **[LinkedIn](https://linkedin.com/in/raunakpandey1)**.
+
+---
 
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=RAUNAK-PANDEY&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=raunakpandey1&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Raunak's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakpandey1&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
-
-  
