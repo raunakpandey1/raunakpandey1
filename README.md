@@ -43,7 +43,7 @@ At Classavo I work on a live classroom platform that grew very fast in 2026 (the
 - 🏅 **Top 5 team**, IBM SkillsBuild Agentic AI Hackathon
 - ☁️ **AWS Certified Developer – Associate** (scored 899)
 - 🧩 **750+ problems solved**, **1700+ LeetCode rating**
-- 🎓 **4.0/4.0 GPA** in my Bachelor's (University of Mumbai), **3.71/4.0** in my Master's so far
+- 🎓 **3.72/4.0 GPA** in my Bachelor's (University of Mumbai), **3.71/4.0** in my Master's so far
 
 ---
 
