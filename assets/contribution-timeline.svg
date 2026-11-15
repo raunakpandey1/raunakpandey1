@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="580" viewBox="0 0 880 580" role="img" aria-labelledby="title desc">
+<title id="title">Open source contributions: five merged pull requests across four projects</title>
+<desc id="desc">November 2026 merge timeline in UTC: Spring Boot #52557 on November 3, Microsoft VS Code Language Server #1943 on November 5, LiteLLM #49806 on November 9, Adobe React Spectrum #10908 and Spring Boot #52625 on November 12. Dates are ordered milestones, not a proportional time scale.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="578" rx="18" fill="url(#bg)" stroke="#303b4c"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="36" y="43" font-size="12" font-weight="700" letter-spacing="2" fill="#a9b8d0">OPEN SOURCE / NOVEMBER 2026</text>
+<text x="36" y="88" font-size="32" font-weight="700" fill="#f0f6fc">Contributions that made it upstream.</text>
+<rect x="36" y="110" width="120" height="28" rx="14" fill="#202b3e"/><text x="96" y="129" text-anchor="middle" font-size="13" font-weight="600" fill="#d9c5ff">5 merged PRs</text>
+<rect x="166" y="110" width="104" height="28" rx="14" fill="#202b3e"/><text x="218" y="129" text-anchor="middle" font-size="13" fill="#d3deee">4 projects</text>
+<rect x="280" y="110" width="120" height="28" rx="14" fill="#202b3e"/><text x="340" y="129" text-anchor="middle" font-size="13" fill="#d3deee">3 languages</text>
+<path d="M126 191V487" stroke="#35465f" stroke-width="2"/>
+
+<text x="36" y="199" font-size="12" font-weight="600" fill="#a9b8d0">NOV 03</text>
+<circle cx="126" cy="194" r="7" fill="#86d06c" stroke="#101b2c" stroke-width="4"/>
+<rect x="152" y="167" width="692" height="62" rx="10" fill="#172233" stroke="#28364b"/>
+<rect x="152" y="178" width="3" height="40" rx="1.5" fill="#86d06c"/>
+<text x="170" y="191" font-size="17" font-weight="600" fill="#edf3fb">Spring Boot</text>
+<text x="170" y="214" font-size="14" fill="#b1bfd3">Duration → microseconds overflow</text>
+<text x="824" y="191" text-anchor="end" font-size="14" font-weight="600" fill="#86d06c">#52557</text>
+<text x="824" y="214" text-anchor="end" font-size="12" fill="#a9b8d0">Java</text>
+<text x="36" y="272" font-size="12" font-weight="600" fill="#a9b8d0">NOV 05</text>
+<circle cx="126" cy="267" r="7" fill="#69b7ff" stroke="#101b2c" stroke-width="4"/>
+<rect x="152" y="240" width="692" height="62" rx="10" fill="#172233" stroke="#28364b"/>
+<rect x="152" y="251" width="3" height="40" rx="1.5" fill="#69b7ff"/>
+<text x="170" y="264" font-size="17" font-weight="600" fill="#edf3fb">Microsoft · VS Code Language Server</text>
+<text x="170" y="287" font-size="14" fill="#b1bfd3">Correct cache deletion for falsy values</text>
+<text x="824" y="264" text-anchor="end" font-size="14" font-weight="600" fill="#69b7ff">#1943</text>
+<text x="824" y="287" text-anchor="end" font-size="12" fill="#a9b8d0">TypeScript</text>
+<text x="36" y="345" font-size="12" font-weight="600" fill="#a9b8d0">NOV 09</text>
+<circle cx="126" cy="340" r="7" fill="#c7a4ff" stroke="#101b2c" stroke-width="4"/>
+<rect x="152" y="313" width="692" height="62" rx="10" fill="#172233" stroke="#28364b"/>
+<rect x="152" y="324" width="3" height="40" rx="1.5" fill="#c7a4ff"/>
+<text x="170" y="337" font-size="17" font-weight="600" fill="#edf3fb">LiteLLM</text>
+<text x="170" y="360" font-size="14" fill="#b1bfd3">Audio duration for PathLike uploads</text>
+<text x="824" y="337" text-anchor="end" font-size="14" font-weight="600" fill="#c7a4ff">#49806</text>
+<text x="824" y="360" text-anchor="end" font-size="12" fill="#a9b8d0">Python</text>
+<text x="36" y="418" font-size="12" font-weight="600" fill="#a9b8d0">NOV 12</text>
+<circle cx="126" cy="413" r="7" fill="#ff9b96" stroke="#101b2c" stroke-width="4"/>
+<rect x="152" y="386" width="692" height="62" rx="10" fill="#172233" stroke="#28364b"/>
+<rect x="152" y="397" width="3" height="40" rx="1.5" fill="#ff9b96"/>
+<text x="170" y="410" font-size="17" font-weight="600" fill="#edf3fb">Adobe · React Spectrum</text>
+<text x="170" y="433" font-size="14" fill="#b1bfd3">Consistent tree state under falsy parent keys</text>
+<text x="824" y="410" text-anchor="end" font-size="14" font-weight="600" fill="#ff9b96">#10908</text>
+<text x="824" y="433" text-anchor="end" font-size="12" fill="#a9b8d0">TypeScript</text>
+<text x="36" y="491" font-size="12" font-weight="600" fill="#a9b8d0">NOV 12</text>
+<circle cx="126" cy="486" r="7" fill="#86d06c" stroke="#101b2c" stroke-width="4"/>
+<rect x="152" y="459" width="692" height="62" rx="10" fill="#172233" stroke="#28364b"/>
+<rect x="152" y="470" width="3" height="40" rx="1.5" fill="#86d06c"/>
+<text x="170" y="483" font-size="17" font-weight="600" fill="#edf3fb">Spring Boot</text>
+<text x="170" y="506" font-size="14" fill="#b1bfd3">PostgreSQL database names in Compose JDBC URLs</text>
+<text x="824" y="483" text-anchor="end" font-size="14" font-weight="600" fill="#86d06c">#52625</text>
+<text x="824" y="506" text-anchor="end" font-size="12" fill="#a9b8d0">Java</text>
+<path d="M36 539H844" stroke="#28364b"/>
+<text x="36" y="560" font-size="11" fill="#9aabc2">Merge dates in UTC · November 2026 snapshot</text>
+<text x="844" y="560" text-anchor="end" font-size="11" fill="#9aabc2">raunakpandey1 / GitHub</text>
+</g></svg>
