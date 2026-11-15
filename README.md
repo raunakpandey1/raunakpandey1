@@ -6,6 +6,20 @@
 
 ---
 
+## 🌱 Open source contributions
+
+**5 merged PRs** across Spring Boot, React Spectrum, Microsoft's language server tooling, and LiteLLM.
+
+| Project | Contribution | Merged PR |
+| :--- | :--- | :---: |
+| **[Spring Boot](https://github.com/spring-projects/spring-boot)** | Fixed overflow when converting large Java `Duration` values to microseconds. Targeted for **4.0.10**. | [#52557](https://github.com/spring-projects/spring-boot/pull/52557) |
+| **[Spring Boot](https://github.com/spring-projects/spring-boot)** | Encoded PostgreSQL database names correctly in Docker Compose JDBC URLs. | [#52625](https://github.com/spring-projects/spring-boot/pull/52625) |
+| **[Adobe React Spectrum](https://github.com/adobe/react-spectrum)** | Fixed stale React tree state when parent keys are `0` or an empty string. | [#10908](https://github.com/adobe/react-spectrum/pull/10908) |
+| **[VS Code Language Server](https://github.com/microsoft/vscode-languageserver-node)** | Corrected TypeScript `LinkedMap` and `LRUCache` deletion results for falsy values. | [#1943](https://github.com/microsoft/vscode-languageserver-node/pull/1943) |
+| **[LiteLLM](https://github.com/BerriAI/litellm)** | Restored audio transcription duration for Python `PathLike` multipart uploads. | [#49806](https://github.com/BerriAI/litellm/pull/49806) |
+
+---
+
 ## Where I am right now
 
 🎓 **Master's in Computer Science (Research)** — University at Buffalo, graduating **May 2027**
@@ -74,9 +88,3 @@ I'm open to **new-grad software engineering and AI/ML roles starting mid-2027**,
 
 The quickest way to reach me is **[rpandey3@buffalo.edu](mailto:rpandey3@buffalo.edu)** or **[LinkedIn](https://linkedin.com/in/raunakpandey1)**.
 
----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=raunakpandey1&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Raunak's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakpandey1&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
