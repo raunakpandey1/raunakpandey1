@@ -8,8 +8,6 @@
 
 ## 🌱 Open source contributions
 
-![Timeline of five merged PRs across four projects in November 2026](assets/contribution-timeline.svg)
-
 **5 merged PRs** across Spring Boot, React Spectrum, Microsoft's language server tooling, and LiteLLM.
 
 | Project | Contribution | Merged PR |
