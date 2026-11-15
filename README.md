@@ -85,7 +85,7 @@ At Classavo I work on a live classroom platform that grew very fast in 2026 (the
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunakpandey1&amp;theme=github_dark" alt="Raunak's GitHub contribution activity over the past year" />
+  <img width="100%" src="assets/github-activity.svg" alt="Raunak's GitHub contribution activity over the past year" />
 </p>
 
 <p align="center">
