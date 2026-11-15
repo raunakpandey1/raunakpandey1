@@ -82,6 +82,19 @@ At Classavo I work on a live classroom platform that grew very fast in 2026 (the
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunakpandey1&amp;theme=github_dark" alt="Raunak's GitHub contribution activity over the past year" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raunakpandey1&amp;theme=github_dark" alt="Raunak's GitHub stats: stars, commits, pull requests, issues, and repositories contributed to" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raunakpandey1&amp;theme=github_dark" alt="Raunak's top languages by commit" />
+</p>
+
+---
+
 ## 🤝 What I'm looking for
 
 I'm open to **new-grad software engineering and AI/ML roles starting mid-2027**, and I'm always happy to talk about human motion research, AI agents, or making slow systems fast.
